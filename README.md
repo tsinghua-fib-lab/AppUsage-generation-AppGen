@@ -9,7 +9,7 @@ Before running the code, ensure that you have the required dependencies installe
 - matplotlib
 - scikit_learn
 - pandas
-- 
+  
 ## 🏃Usage
 To train a new model or evaluate the trained model, you can use the following command format:
 ```
